@@ -1,0 +1,96 @@
+body {
+  background-color: #1B335A;
+}
+
+
+p {
+  font-size: 18px;
+  font-family: 'Outfit', sans-serif;
+  line-height: 1px;
+}
+
+
+.Main-box {
+  background-color: #14253D;
+  margin: 50px auto;
+  height: 500px;
+  width: 350px;
+}
+
+.equilibrium {
+  width: 285px;
+  height: 250px;
+  margin: 20px 32.5px 10px;
+}
+
+
+.Content {
+  margin-left: 32.5px;
+  margin-right: 32.5px;
+
+}
+
+.data-0{
+  font-weight: 600;
+  color: white;
+}
+
+.data-1 {
+  display: inline;
+  font-size: 16px;
+  font-weight: 400;
+  color: #2B73DA;
+}
+
+.data-2 {
+  display: inline;
+  font-size: 16px;
+  font-weight: 400;
+  color: cyan;
+}
+
+.data-3 {
+  color: #2B73DA;
+  display: inline;
+  font-size: 16px;
+  position: relative;
+  left: 90px;
+}
+
+.data-4 {
+  display: inline;
+  font-size: 14px;
+  font-weight: 300;
+  color: #2B73DA;
+  vertical-align: bottom;
+}
+
+.data-5 {
+  color: white;
+  display: inline;
+  font-size: 14px;
+  font-weight: 300;
+  vertical-align: bottom;
+}
+
+.line {
+  height: 1px;
+  background-color: #3E4E65;
+  border: none;
+}
+
+.avatar {
+  height: 25px;
+  width: 25px;
+  float: left;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+
+.attribution {
+   font-size: 11px; text-align: center;
+  }
+.attribution a {
+   color:#6D6F78;
+  }
